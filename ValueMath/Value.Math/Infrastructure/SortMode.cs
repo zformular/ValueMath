@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ValueMathHelper.Infrastructure
+namespace Value.Math.Infrastructure
 {
     /// <summary>
     ///  升序或者降序

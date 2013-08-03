@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Value.Math</name>
+    </assembly>
+    <members>
+        <member name="M:Value.Math.ValueMath.InsertSort``1(``0[],Value.Math.Infrastructure.SortMode)">
+            <summary>
+             插入算法
+            </summary>
+            <typeparam name="T">实现IComparable接口的对象</typeparam>
+            <param name="list">对象数组</param>
+            <param name="mode">排序的顺序</param>
+        </member>
+        <member name="M:Value.Math.ValueMath.InsertSort``1(``0[],System.String,Value.Math.Infrastructure.SortMode)">
+            <summary>
+             插入算法
+            </summary>
+            <typeparam name="T">需排序的对象类型</typeparam>
+            <param name="list">需排序的数组对象</param>
+            <param name="sortField">对象需排序的字段</param>
+            <param name="mode">排序的顺序</param>
+        </member>
+        <member name="M:Value.Math.ValueMath.Max(System.Single[])">
+            <summary>
+             获得最大值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.Max(System.Double[])">
+            <summary>
+             获得最大值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.Max(System.Int32[])">
+            <summary>
+             获得最大值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.MaxIndex(System.Single[])">
+            <summary>
+             获得最大值索引值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.MaxIndex(System.Double[])">
+            <summary>
+             获得最大值索引值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.MaxIndex(System.Int32[])">
+            <summary>
+             获得最大值索引值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.Min(System.Single[])">
+            <summary>
+             获得最小值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.Min(System.Double[])">
+            <summary>
+             获得最小值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.Min(System.Int32[])">
+            <summary>
+             获得最小值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.MinIndex(System.Single[])">
+            <summary>
+             获得最小值索引值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.MinIndex(System.Double[])">
+            <summary>
+             获得最小值索引值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.MinIndex(System.Int32[])">
+            <summary>
+             获得最小值索引值
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.Average(System.Single[])">
+            <summary>
+             获得平均数
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.Average(System.Double[])">
+            <summary>
+             获得平均数
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.Average(System.Int32[])">
+            <summary>
+             获得平均数
+            </summary>
+        </member>
+        <member name="M:Value.Math.ValueMath.StandardDeviation(System.Int32[])">
+            <summary>
+             计算均方差
+            </summary>
+            <param name="list"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Value.Math.Infrastructure.SortMode">
+            <summary>
+             升序或者降序
+            </summary>
+        </member>
+        <member name="F:Value.Math.Infrastructure.SortMode.Descending">
+            <summary>
+             降序
+            </summary>
+        </member>
+        <member name="F:Value.Math.Infrastructure.SortMode.Ascending">
+            <summary>
+             升序
+            </summary>
+        </member>
+    </members>
+</doc>

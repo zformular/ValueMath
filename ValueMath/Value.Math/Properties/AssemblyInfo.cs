@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过以下
 // 特性集控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("ValueMathHelper")]
+[assembly: AssemblyTitle("Value.Math")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Sky123.Org")]
-[assembly: AssemblyProduct("ValueMathHelper")]
-[assembly: AssemblyCopyright("Copyright © Sky123.Org 2013")]
+[assembly: AssemblyCompany("zyValue")]
+[assembly: AssemblyProduct("Value.Math")]
+[assembly: AssemblyCopyright("Copyright © zformular 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("5602a556-d596-4b11-a1a2-d136c59ca2cf")]
+[assembly: Guid("ce411eef-28c5-48a5-a7d0-12064c0f7099")]
 
 // 程序集的版本信息由下面四个值组成:
 //
